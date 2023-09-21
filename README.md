@@ -31,6 +31,7 @@
 ### What was positive and good about using TDD?
 
 I'm instead going to mention things that i think testing could be good for or a positive outcome from doing tests.
+
     1. Clarity: TDD provides a clear understanding of what the function or component is supposed to do.
     2. Robustness: It ensures that the code works before any further development, making the software more robust.
     3. Ease of Refactoring: With tests already in place, refactoring is safer and easier.
