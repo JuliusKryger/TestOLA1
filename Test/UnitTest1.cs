@@ -14,5 +14,13 @@ namespace Test
             result = converter.FahrenheitToCelsius(212);
             Assert.Equal(100, result);
         }
+
+        [Fact]
+        public void TestCelsiusToFahrenheit()
+        {
+            var converter = new TemperatureConverter();
+            var result = converter.CelsiusToFahrenheit(-17);
+            Assert.Equal(1.4,result);
+        }
     }
 }
