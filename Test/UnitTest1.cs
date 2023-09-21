@@ -1,4 +1,4 @@
-using App;  // Add this to use the TemperatureConverter from the class library.
+using App;  // Add this to use the TemperatureConverter and RomanNumeralConverter from the class library.
 
 namespace Test
 {
